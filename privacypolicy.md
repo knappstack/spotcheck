@@ -1,7 +1,6 @@
-# spotcheck
+SPOTCHECK 
 
-Privacy Policy
-==============
+# Privacy Policy
 
 Last updated: February 27, 2022
 
