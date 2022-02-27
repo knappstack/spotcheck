@@ -1,2 +1,0 @@
-# spotcheck
-Android App - Spotcheck
